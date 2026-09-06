@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/sample_documents/*
+!data/sample_documents/.gitkeep
+*.index
+.streamlit/
+.DS_Store
